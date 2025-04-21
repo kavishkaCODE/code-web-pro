@@ -241,30 +241,28 @@
   
     .testimonial {
       width: 90%;
-    }
-  
-    .search-form {
-      width: 100%;
-      margin: 10px auto;
-      padding: 5px 10px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      box-sizing: border-box;
-      max-width: auto;
-    }
-    
-    .text-input {
-      flex: 1;
-      padding: 8px;
-      font-size: 14px;
-    }
-    
-    .sButton {
-      margin-left: 10px;
-      padding: 8px 12px;
-      font-size: 14px;
-    }
+      .search-form {
+        width: auto;
+        margin: 10px auto;
+        padding: 5px 10px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        box-sizing: border-box;
+        max-width: 150px;
+      }
+      
+      .text-input {
+        flex: 1;
+        padding: 8px;
+        font-size: 14px;
+      }
+      
+      .sButton {
+        margin-left: px;
+        padding: 8px 12px;
+        font-size: 14px;
+      }}
     
   }
   
