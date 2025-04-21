@@ -245,13 +245,13 @@
   
     .search-form {
       width: 100%;
-      max-width: 100%;
       margin: 10px auto;
       padding: 5px 10px;
       display: flex;
       justify-content: space-between;
       align-items: center;
       box-sizing: border-box;
+      max-width: auto;
     }
     
     .text-input {
